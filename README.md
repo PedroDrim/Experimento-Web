@@ -8,7 +8,7 @@ Utilize o comando:
 # Uso
 ## Linux:
 Execute o comando diretamente.
-`./mvnw org.apache.tomcat.mav:tomcat7-maven-plugin:run -Dmaven.tomcat.port=9090`
+`./mvnw tomcat7:run`
 
 ## Windows:
 Execute o arquivo mvnw.cmd
