@@ -3,7 +3,7 @@ Um experimento de página html com alguns experimentos.
 
 # Obtenção
 Utilize o comando:
-`git clone https://github.com/PedroDrim/ExperimentoWeb`
+`git clone https://github.com/PedroDrim/Experimento-Web`
 
 # Uso
 ## Linux:
